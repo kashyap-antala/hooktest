@@ -6,4 +6,4 @@ test add
 
 another test
 
-with origin
+with origin self
